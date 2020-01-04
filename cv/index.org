@@ -1,0 +1,90 @@
+#+TITLE: CV - auke.klazema.net
+#+AUTHOR: Auke L, Klazema
+* CV
+
+** Personal details
+
+ | Name            | A. L. Klazema (Auke)        |
+ | E-mail          | auke [at] klazema [dot] net |
+ | Address         | Ureterp                     |
+ | Date of birth   | 25-01-1981                  |
+ | Nationality     | Dutch                       |
+ | Marital status  | Married                     |
+ | Drivers license | B                           |
+
+**  Education
+
+*1998 - 1999 HBO Electrical Engineering(propedeuse) NHL*
+
+*1999 - 2001 Psychology RuG*
+
+*2001 - 2007 Bachelor Artificial Intelligence RuG*
+
+*2007 - 2010 Master Man Machine Communication RuG*
+
+** Work experience
+
+*2000 - 2003 Saturday postman at TPG (Gorredijk)*
+
+*2006 - 2008 Homework assistant & tutor at Huiswerkinstituut NHI (Heerenveen)*
+
+*2008 - 2009 Student assistant Experimental Psychology RuG (Groningen)*
+
+Extending a simulation program of heartbeat and blood pressures during mental tasks. The simulation was written in Matlab.
+
+*2009 - 2011 .Net Software Engineer ChipSoft (Drachten)*
+
+Responsibility for a part of the Electronic Hospital Information System. Guidance and training of new programmers. Documented the new graphical framework so other programmers could better finish up their transition from the old to the new framework. Programming was done in Delphi, C#, SQL and WPF.
+
+*2011 - 2015 Senior programmer C# and C/C++ DicoLab (Almere)*
+
+Improving the underlining technology just above kernel level. Written a device driver at kernel level. Building of a new network protocol for the latest product. Written a stripped down API. These were all done in c / c++. Worked on user experience improvements of the products. Worked on license models, encryption and user interface. These were all done in C#. Automated the build process and decoupled some parts of the build process to speed up the build. Created a fully configurable API that was written in C#.
+
+*2015 - 2016 Senior Software Developer Mauell BV (Harderwijk)*
+
+In an international team we worked on improving existing software made in Brazil. My team made sure testing was part of the development. By using unit and integration tests. This meant certain parts needed to be rewritten to allow testability. We also automated the build and testing to determine the code worked correctly. Using Scrum to get as much feedback as possible about our progress. My responsibility was to lead the team and to implement the features together with them. Using code review and where useful pair programming to keep code clean and to prevent knowledge from staying with just one person. Coding was done in C# and WPF/MVVM and most of the work was geared to provide a better remote installation. Quality and testability is very important to me, where architecture and design patterns have their place but should not be overused. Code should be readable, as simple as possible and tell the reader its intent.
+
+*2016 - present Software Engineer ASTRON (Dwingeloo)*
+
+** Organizational experience                                                    
+                                                                              
++ 2002 - 2004 Chairman work group political party Opsterland                   
++ 2004 - 2006 Chairman local department political party Opsterland             
++ 2004 - 2008 Chairman OpenSTR (technology club)                               
+                                                                              
+** Operating System skills                                                      
+                                                                              
+ GNU/Linux                                                                    
+ Microsoft Windows                                                            
+                                                                              
+** Programming skills                                                           
+                                                                              
++ C / C++
++ C#
++ Python
++ Java
++ Matlab / Octave
++ R
++ Scheme / Lisp / Racket
++ HTML & CSS
++ Forth
++ Assembly
+
+** Prizes                                                                       
+                                                                              
+ In 2005 together with a team I joined a robot competition hosted by Startell called Robochallenge. Everything was created by the team with the exception of the metal frame. The goal was to collect balls that hang from the ceiling. They had different colors and hang at different heights. Some colored balls needed to be ignored. The robot had to drive autonomously with only feedback from the sensors like a camera. I led the team and was responsible for the driving electronics and the embedded code to drive the robot. We won the competition based on points and on best documentation. The brain of the robot was a small PC with GNU/Linux and the code was written in C++.                                                                         
+                                                                              
+** Interests                                                                    
+                                                                              
+ amateur radio (PE2ALK), electronics, programming, (digital) security,        
+ puzzles, astronomy, minix3, go (game), human brain and science in general.   
+                                                                              
+ Worked on motor control for robotics. Worked on servo motor control for robotics. Developed both electronics and embedded software as well as the interface software on the connected PC. Experimented with RF design. Programmed on the Arduino and designed and etched boards with pic processors.
+
+** Languages                                                                    
+                                                                              
+| Dutch   | Mother tongue |
+| Frisian | Mother tongue |
+| English | Good          |
+| German  | Basic         |
+| French  | Learning      |

@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="104" height="132" viewBox="0 0 26 33" version="1.1"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+  <metadata>
+    <rdf:RDF>
+      <cc:Work
+          rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+            rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+          rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="author">
+    <path style="fill:#333333;"
+          d="M 2,33 v-1 h1 v-2 h1 v-2 h1 v-1 h1 v-1 h2 v-3 h-2 v-1 h-2 v-1 h-1 v-2 h-1 v-2 h-1 v-4 h-1 v-3 h1 v-6 h1 v-1 h1 v-1 h2 v-1 h2 v-1 h6 v1 h2 v1 h2 v1 h1 v2 h1 v4 h1 v-1 h1 v1 h1 v5 h-1 v1 h-1 v1 h-1 v1 h-1 v2 h-1 v5 h3 v1 h2 v1 h2 v1 h1 v3 h1 v3 z"/>
+    <path style="fill:#ffffff;"
+          d="M 3,33 v-1 h1 v-2 h1 v-1 h1 v-2 h2 v-1 h1 v1 h-1 v1 h-1 v1 h-1 v1 h-1 v2 h-1 v1 z"/>
+    <path style="fill:#ffffff;"
+          d="M 9,25 v-1 h5 v-2 h2 v3 h4 v1 h2 v1 h2 v3 h1 v3 h-1 v-3 h-1 v-2 h-1 v-1 h-2 v-1 h-5 v-2 h-1 v1 z"/> 
+    <path style="fill:#ffffff;"
+          d="M 6,22 h8 v-1 h2 v-2 h1 v-2 h1 v-3 h1 v-4 h-1 v3 h-1 v1 h-1 v1 h-4 v-1 h-1 v-1 h-1 v-2 h-2 v2 h-1 v1 h-1 v1 h-4 v2 h1 v2 h1 v2 h2 z"/> 
+    <path style="fill:#333333;"
+          d="M 9,21 v-1 h1 v1 z"/>
+    <path style="fill:#333333;"
+          d="M 7,19 v-1 h4 v1 z"/>
+    <path style="fill:#333333;"
+          d="M 7,16 v-1 h2 v1 z"/>
+    <path style="fill:#ffffff;"
+          d="M 20,14 v-5 h1 v5 z"/>
+    <path style="fill:#ffffff;"
+          d="M 2,14 h4 v-1 h1 v-3 h-1 v-1 h-4 v1 h-1 v3 h1 z"/>
+    <path style="fill:#333333;"
+          d="M 3,13 h3 v-3 h-4 v1 h1 v2 z"/>
+    <path style="fill:#ffffff;"
+          d="M 12,14 h4 v-1 h1 v-3 h-1 v-1 h-4 v1 h-1 v3 h1 z"/>
+    <path style="fill:#333333;"
+          d="M 13,13 h3 v-3 h-4 v1 h1 v2 z"/>
+    <path style="fill:#ffffff;"
+          d="M 2,8 h4 v1 h2 v1 h2 v-1 h2 v-1 h4 v-1 h-5 v1 h-1 v-1 h1 v-1 h5 v1 h1 v1 h-1 v1 h2 v-4 h-1 v-1 h-2 v-1 h-5 v1 h-2 v-1 h-5 v2 h-1 v1 h5 v1 h1 v1 h-1 v-1 h-5 z"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-04 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-04
+
+Finished the "What is cyber security?" article as the first version. It really annoying that brain doesn't seem to see obvious textual flaws. It's not just typos but also the same words repeated. It usually takes me multiple reads spread out over multiple days to find most issues. Also making sentences flow from one to the other is something I would like to work on. Have a nice day! 

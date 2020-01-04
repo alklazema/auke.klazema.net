@@ -1,0 +1,9 @@
+#+TITLE: About me - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+* About me
+
+My name is Auke L. Klazema and I like the border between man and machine. I see this border when I program. When I test and when end-users use my software. 
+
+Currently I'm working as a software engineer and I'm specializing myself in cyber security. I will document my learning journey with topic pages and a log.
+
+You can send me an email at: auke [at] klazema [dot] net

@@ -1,0 +1,16 @@
+#+TITLE: What is cyber security? - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* What is cyber security?
+
+Cyber security is about protecting against digital attacks on hardware and software. The attackers may have the intention to steal, damage, or gain unauthorized access to data or services. But the attackers may also try to disrupt certain services. The protection is done through processes, practices and technology. The first goal is to prevent the attacks in order to keep the data and service private and available, but since no systems is fully secure, the second goal is to recover from an attack and restore the data and service and the final goal is to test how good the security is. 
+
+Computer services are build with multiple layers of different functionalities, for example networking, databases, user management, file storage etc. To prevent digital attacks all these layers need to be taken into account. So for each layer the risks for attacks needs to be assesed and a security plan bassed on those risks needs to be created and put into place. This makes the prevention complex but luckely attacking it as well. But unfortunatly the attacker always has an advantage, because an succesful attack only needs one flaw and a fully secured system needs zero flaws, which is near to impossible.
+
+Knowing that systems will be compromised, if they are seen as interesting to an attacker, the ability to recover from an attack becomes important. This is where detection and restoring are key factors. First it needs to be known that systems have been changed by an attacker. In order to know this you need to always know what your systems should look like, next you could compare the current systems with the model system to detect the changes. When you know that the system has been affected, restoring the system from backups can be done. But just restoring the system still leaves the system vulnerable, because the initial flaw in the system has been restored as well. So its important to understand what vulnerability was used in the attack in order to able to fix the vulnerability.
+
+After setting up processes, practices and technology to protect and restore the system it becomes important to always test the security of the system if the risks of compromise are deemed too high. This can be done by testing on all known flaws against the computer service. And this should prevent attacks from cassual attackers. But in order to stop more advanced attackers more research is needed. Taking on the role of an attacker to find new flaws could be needed to stay ahead of attackers. 
+
+The field of cyber security is ever evolving as long as new technologies get introduced, but also new flaws get found in more arcane systems. The odds are against the defenders in the everlasting cat and mouse game. Sharing ideas about security processes, practices and technology seems to be best solution against attackers since one person or organisation can't find all the solutions needed for the best defence.
+
+Version 1.0 - 2020-01-04

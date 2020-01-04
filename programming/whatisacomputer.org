@@ -1,0 +1,20 @@
+#+TITLE: What is a computer? - auke.klazema.net
+#+AUTHOR: Auke L. kLazema
+
+* What is a computer?
+
+A computer is a device that can be instructed to either store, retrieve or process data. This device could be mechanical, but I will be talking about the electronic kind. A computer usally consists of a CPU, short term memory, long term memory, and input and output devices.
+
+A CPU stands for Central Processing Unit. It will fetch instructions and perform those instructions. Some of the instructions will have values that need to be stored. The CPU can store a few values in its own fast memory. The fast memory has dedicated sections and they are called registers. Some CPU architectures have many registers and others have only a few. Most instructions use the values in the registers to perform some tasks. Many tasks are very simple, like adding two values, but some CPU architectures can perform complex tasks with a single instruction.
+
+If the CPU would perform only tasks on its own memory it would add litle to no benifit to the user. Its when it interacts with devices outside of itself that it performs usefull tasks. One of these external devices is the short and long term memory. Together they can hold programs and data and the output can be stored for later use. The short term memory generally has faster read and write actions. Most times programs get loaded out of the long term memory into the short term memory. This allows programs to run faster. The amount of short term memory is usually also smaller than the long term memory. One reason is that faster memory tends to be more expensive.
+
+Some computers run only one program. This computer is dedicated to one task. Other computers were designed to run multiple programs. In order to manage these multiple programs another program is needed. This program is called a kernel. Together with other specialized programs it forms the Operating System as called the OS. An OS is needed because normally only one program can be run on a CPU. The kernel is called periodically to have it select which program it needs to run next. By switching out program often the illusion of multiple programs running is created.
+
+The activity of creating a program is called programming. It is also called Software Development or Software Engineering. Programs can be directly created in the instructions that the CPU accepts. The CPU instructions are are so called opcodes and all the available opcodes together are called the machine language or machine code. Working with machine code is difficult to read and write by programmers. This is because the language deals with really low level abstractions and it has to be encoded in only numbers.
+
+To make the machine code more readable the assembly language was created. Every CPU has its own assembly language and it encodes the machine codes into mnemonics. Even though its more readable its still really low level. In order to perform the simpelest tasks on the CPU many instructions are needed. To allow for more abstract way of writing programs more high level languages were created. Some examples are Algol, LISP, C, Python, Javascript.
+
+So in the end the computer is nothing more than a very expensive calculator that can be extended with other devices. And it is up to us to turn the numbers coming out of it into useful things. The numbers could mean letters in a text documents or colors used in a game.
+
+Version: 1.0 - <2019-12-29 zo>

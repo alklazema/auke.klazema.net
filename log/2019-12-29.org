@@ -1,0 +1,8 @@
+#+TITLE: 2019-12-29
+#+AUTHOR: Auke L. Klazema
+
+* 2019-12-29
+
+Today I decided that in order to structure my Cyber Securtiy study, I need to focus on writing things down. In the same line of though that in order to be able to teach something, you really need to understand the subject. So in order for me to have some understanding of a subject I will force my self to write about it. Now if there is one thing that I don't like to do it is to express myself in written words. This is somewhat odd because this is almost exactly what I do when I program for my day job. But I guess its because I don't particullar like to make mistakes. Even though I know that making mistakes is about the only way to learn something. So its OK to make mistakes. In programming most of my mistakes are detected by the compiler or the interpreter and the automated tests. I don't see that safety net yet for writing an article, other than reading over the text a few days later.
+
+The only way to learn to write is by writing. Reading a book can help and having real life teachers too, but in the end its about the hard work I put in myself. So that is what I will do, and I will be fixing the mistakes as I go along. To make the fixes visible I will be adding version information on my topic pages.

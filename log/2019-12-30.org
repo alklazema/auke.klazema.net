@@ -1,0 +1,12 @@
+#+TITLE: 2019-12-30 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2019-12-30
+
+Consistency is key. So this is my second entry in the log. Creating a daily entry during the holiday break should not be a problem. The trick is to keep it going after the break. My battle plan is to at least have an entry every day, even if it would only contain one word.
+
+Today I started working on the "What is cyber security?" article. And I read up on how to write good paragraphs.
+
+The idea behind these log entries is to keep my writing going, but also to give a peak behind the scenes. I don't expect these entries to be of the same quality as the article pages. Although quality improvements on the article pages hopefully increase quality of the log entries as well.
+
+Some of the ideas I have for the website is to use [[https://racket-lang.org/][Racket]] as the programming language. To use docker to provide the reader with a portable platform to experiment with. And to use gnucap or another spice like program to simulate circuits for the electronics part of the website.

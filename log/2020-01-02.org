@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-02 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-02
+
+Finishing the "What is cyber security?" takes longer than I expected. Hopefully it needs one more day. One of the ideas in it is that only by sharing all the findings made in securing digital systems will we stand a fighting change against attackers.

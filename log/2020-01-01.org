@@ -1,0 +1,8 @@
+#+TITLE: 2020-01-01 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-01
+
+Happy new year!
+
+Today I continued on the "what is cyber security?" article. Thinking about the difference of attacker and defender. The attacker has the advantage of needing only one flaw in the system and the defender of the system needs to have zero flaws. For me the attacking part is really cool from the puzzle aspect, but the defending part has more of "Enlightened master" feel to it. Both resonate with me, and both form a part of the journey I'm on.
