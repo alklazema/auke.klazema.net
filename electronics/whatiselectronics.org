@@ -1,0 +1,12 @@
+#+TITLE: What is electronics - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* What is electronics
+
+Electronics is solving every day problems with the help of electrons. Electrons behave in certain ways in vacuum, gasses and matter. By combining the behaviors in a circuit, certain higher level behavior can be created and used inside electronic devices. Some of the basic behavior blocks are resistors, capacitors, inductors, diodes and resistors. Electronics is what makes modern life possible. Its in our cars, kitchen appliances, airplanes, computers and mobile phones.
+
+Electrons are the negative charged particles in atoms. Some materials have many electrons that can move freely between atoms and they are called conductors. And some materials do not have many electronics that can move freely between atoms and they are called insulators. And then there are materials that sit between conductors and insulators and are called semi-conductors.
+
+Analog electronics deals with signal change in a continues way. The circuit has a direct and proportional effect on the connected changing analog signal. The input signal could be a varying voltage, current or frequency. The signal could also come from a sensor that turns non electrical signals into one.
+
+Digital electronics deals with change in discrete steps. This conversion from a continues signal to discrete steps is called digitization or AD conversion. The circuit behind the digital signals now only needs to deal with well known steps.
