@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-08 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-08
+
+Another day of no writing. But I did hear a nice comment on a DerbyCon talk during my commute. It went something like this: "We all know that attackers have it easy they need one flaw and the defenders need to have zero flaws. But this is not true, because all the defenders need is one detection." So yes when there is no detection the odds are against the defenders. But when you have many traps for the attackers inplace, where the normal user would not fall into, the odds become better for the defenders.

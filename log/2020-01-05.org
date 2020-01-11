@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-05 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-05
+
+I started working on the "What is electronics?" article. Planning to do the what is programming bit after it. Its seems harder to write the general basic articles than the specific more detailed articles. So I'm looking forward to those, but first these two need to be done.

@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-11 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-11
+
+Finished the "What is electronics?" article. One more basic article before the fun starts. So on to the "What is programming?" article.
