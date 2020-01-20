@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-19 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-19
+
+Finally finished the "what is programming?" article.

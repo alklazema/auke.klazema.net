@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-18 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-18
+
+Finally some time to work on the "What is programming?" article. I think it needs one more day of rest and rework.

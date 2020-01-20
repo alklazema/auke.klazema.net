@@ -1,0 +1,8 @@
+#+TITLE: 2020-01-13 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-13
+
+Some more work on the "what is programming?" article.
+
+On my comute I continues listening to the presentations from DerbyCon 2019. There was a nice one on attribution and one on phishing kits that get sold on the internet.
