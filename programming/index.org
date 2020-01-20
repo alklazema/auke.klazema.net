@@ -6,3 +6,4 @@
 ** Basics
 
 + [[file:whatisacomputer.org][What is a computer?]]
++ [[file:whatisprogramming.org][What is programming?]]

@@ -1,0 +1,16 @@
+#+TITLE: What is programming? - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* What is programming?
+
+Programming is solving every day problems with computations provided by the computer. These computations are usually very simple, in the form of adding, subtracting, multiplying and division. Using these computation instructions together with some choice instructions like "if the outcome is zero then jump to this instruction" new abstractions can be created. By combining abstractions into even more abstractions problems can be solved. All of the higher abstractions are done in software where the lowest computations are hard coded in electronics. 
+
+Programming can be done directly in machine code and that's what the computer in the end needs, but most of the time programming is done in a programming language. The software that is written in the programming language will need to be translated into the machine code. There are many different programming languages created over the short time computers have existed. All with the intention to make solving problems with a computer simpler. Many of them are so called general purpose programming languages because they try to provide a language that can solve a wide range of problems. Some languages focus a little bit more on allowing the programs to run as fast as possible, where others try to make it easier to write programs that need to be run in parallel on multiple computers.
+
+Usually software is not written in one go. There is a whole life cycle to writing software. It starts out with an idea on how to solve a problem and that gets written in a programming language. Then it needs to be converted to computer instructions, either by a process called compilation or a process called interpretation. Then the software gets tested to see if it actually solved the problem and when that's not the program has to be changed. The process of figuring out where the fault is in the software is called debugging. This is called this way because faults in software are called bugs. After the program seems to be without faults and it solves the initial problem it can be used by users. Most times the user of the software wants to have more features or finds faults with the program, and that requires more changes to the software. This is where the cycle starts all over again.
+
+A person that programs software for a computer is called a programmer or a coder. They are also called Software Engineers to give more focus on the whole life cycle of creating software.
+
+Programming can be a complex process where software can have many features and units of code need to combined. Where each code unit is solving its own single problem to aid in solving the bigger problem that the program tries to solve. What becomes important for the programmer or team of programmers is that when reading the code the intention of the code is as clear as possible. Otherwise wrong assumptions are made and faults will be introduced very quickly. This writing of clear and clean code seems to be the hardest part of the programmers work. 
+
+Version: 1.0 - <2020-01-19>
