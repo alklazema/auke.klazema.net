@@ -1,0 +1,107 @@
+#+TITLE: First steps in programming with Racket - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* First steps in programming with Racket
+
+Racket is a general-purpose programming language and it also allows you to create your own programming languages. Racket belongs to the Lisp familly and is based on the Scheme programming language. This means that the base Racket language has very litle syntax.
+
+In order to work trough the example show in this article you need to download Racket from [[https://racket-lang.org]]. You can enter the command directly in the REPL (Read Eval Print Loop) program by running racket. Or through DrRacket, the IDE (Integrated Development Environment). When running them directly in the REPL you don't need to provide the /#lang racket/ line. See for more information the excellent documentation on the Racket website.
+
+Racket has a large variety of basic data types like numbers, characters, boolean values and [[https://docs.racket-lang.org/guide/datatypes.html][many more]]. 
+
+Numbers are evaluated to themselves in Racket:
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+123
+#+END_SRC
+
+#+RESULTS:
+: 123
+
+Strings are also evaluated to themselves:
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+"Hello World"
+#+END_SRC
+
+#+RESULTS:
+: "Hello World"
+
+A value can be used together with a function to solve certain problems. For example if you want to know how much /2 + 5/ is. In order to apply a function like /+/ in Racket you need to write the function followed by the values it needs. And this all needs be wrapped in parentheses.
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+(+ 2 5)
+#+END_SRC
+
+#+RESULTS:
+: 7
+
+When programming its helpful to name values. By using names you give meaning to values. For example 39 could be the height of a tree in meters. Or the age of a person. Or the house number of a friend. So naming takes away the magic meaning of a value. In Racket we can define an identifier that is assigned to a value. This is done by using the word define, it needs to be followed by an identifier and a value. And that all needs to be include by parentheses. This form is part of the syntax of the Racket language.
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+(define age 39)
+age
+#+END_SRC
+
+#+RESULTS:
+: 39
+
+The word define can also be used to name functions. A function is a set of expression that can take input.
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+(define (square x) (* x x))
+
+(square 4)
+#+END_SRC
+
+#+RESULTS:
+: 16
+
+Playing with values and functions is a lot of fun but for most programs making decisions based on results of functions are important. For example if you want to solve the problem of telling the user is a number is odd or even you need to perform an action and the result determines if its odd or not. For that we have the word /if/.
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+(define (odd x) 
+  (if (= (remainder x 2) 0)
+      #f
+      #t))
+
+(odd 3)
+#+END_SRC
+
+#+RESULTS:
+: #t
+
+Before I end this first taste of programming with Racket I still want to talk a litle bit about an important datatype and that is the List. A list is a group of values. For example:
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+(list 1 2 3 4)
+#+END_SRC
+
+#+RESULTS:
+: '(1 2 3 4)
+
+Racket has many functions that work on a list because it is a dialect of Lisp (LISt Processor). We could for example ask Racket to tell if items in a list are odd or not:
+
+#+BEGIN_SRC racket :exports both
+#lang racket
+(define (odd x) 
+  (if (= (remainder x 2) 0)
+      #f
+      #t))
+
+(map odd (list 1 2 3 4 5 6))
+#+END_SRC
+
+#+RESULTS:
+: '(#t #f #t #f #t #f)
+
+This was the first tast. More will come and I will use Racket for most of the articles on programming. I hope you liked it even though you might not have understood all parts. I will come back to it, but in case you can't wait for it you could start reading the documentation on the Racket lang website.
+
+Version 1.0 - 2020-02-09

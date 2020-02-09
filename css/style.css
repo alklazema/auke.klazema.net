@@ -75,6 +75,13 @@ body pre.src {
   color: white;
   background: black;
 }
+body pre.example {
+  overflow-y: auto !important;
+  font-size: 16px;
+  padding: 0.5em;
+  color: white;
+  background: gray;
+}
 body code {
   background: #eee;
   border: 1px solid #ccc;
