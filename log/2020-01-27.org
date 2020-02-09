@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-27 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-27
+
+I'm not sure if writing just one word really adds something. The goal was to at least work daily on one of the subjects of the website. But being able to really sit down and to put my ideas into words is just not an real option when life puts some extra obstacle on your path. But this is not a big deal because somethings are out of my control. For example dealing with sick children in the household prevents good sleep and requires more care than usual. Enough complaining. Today I started with the next article in the programming section.

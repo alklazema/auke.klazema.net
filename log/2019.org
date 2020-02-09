@@ -1,0 +1,6 @@
+#+TITLE: 2019 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2019
+
++ [[file:201912.org][2019-12]]

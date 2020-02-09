@@ -1,0 +1,6 @@
+#+TITLE: 2020-02-09 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-02-09
+
+Finished the first version of the "First speps in programming with Racket."

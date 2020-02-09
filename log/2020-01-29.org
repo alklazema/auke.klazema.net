@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-29 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-29
+
+Today I started working on the "First steps in programming with Racket" article.

@@ -1,0 +1,6 @@
+#+TITLE: 2020-01-30 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-01-30
+
+I continued on the "First step in programming with Racket" article. While working on it I thought its good to also have an article on how numbers and characters are represented in a computer. But also an article on programming in the c language. This because many programs are written in c or c++ and because the c language forces the programmers to handle memory themselves. Because programmers are responsible for it many memory bugs show up in the programs they write with c. These memory bugs have caused many security issues in the past but also still in the present.
