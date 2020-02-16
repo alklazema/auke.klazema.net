@@ -1,0 +1,6 @@
+#+TITLE: 2020-02-16 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-02-16
+
+I started working on the "First steps in programming with C." article. I also realized that if I want to discuss programming and cyber security well I will need to discuss networking as well. When I created some basic articles on programming and cyber security I will add a section dedicated to networking.
