@@ -1,0 +1,104 @@
+#+TITLE: First steps in programming with C - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* First steps in programming with C
+
+The C programming language is a small language that is a rather low level programming language. It comes with the basic building blocks that all high level languages have, but it comes without any safety nets. It gives almost direct access to all resources of the computer and it gives the option to program in Assembly language if the programmer needs the last direct access. Many programs have been written in the C language. Many Operating Systems have been written in C or its bigger brother C++.
+
+Most C implementations only provide a compiler. There are few that have interpreters and even less have a REPL. So in order to follow along with the examples you need to compile the code by storing it in a file point the compile to the file.
+
+With the open source implementation [[https://gcc.gnu.org/][GCC]] you need to compile a file like so:
+
+#+BEGIN_EXAMPLE
+> gcc -o hello hello.c
+#+END_EXAMPLE
+
+And with the open source implementation [[https://clang.llvm.org/][Clang]] you need to compile a file like so:
+
+#+BEGIN_EXAMPLE
+> clang -o hello hello.c
+#+END_EXAMPLE
+
+So lets have a quick look at the first program that most tutorials and book provide:
+
+#+BEGIN_SRC c :exports both
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+  printf("Hello World\n");
+
+  return 0;
+}
+#+END_SRC
+
+#+RESULTS:
+: Hello World
+
+This program is called a "Hello world" program. When you run the program it outputs the string /"Hello World"/. All C programs need to have a main function. This is the function that gets called when the Operating System hands over control to the program. The OS provides the main function with the arguments that were given to the program.
+
+In the "Hello World" program the function printf gets used to display the given string on the output device. Calling a function is done by writing the name of the function followed by opening and closing parentheses. And if the function takes arguments they need to be put between the parentheses, and each argument needs to be separated with commas ','. Each statement in C needs to be terminated with a semicolon ';'.
+
+Also each function has the option to return values back. In this example we return an integer value.
+
+The C language allows us to assign values to variables. This makes reading code so much easier because values can be given descriptive names.
+
+#+BEGIN_SRC c :exports both
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+  int magic = 42;
+
+  printf("The value of magic is %i\n", magic);
+
+  return 0;
+}
+#+END_SRC
+
+#+RESULTS:
+: The value of magic is 42
+
+You create useful programs with just a main function. But when a program gets more complex it makes the code more readable to put certain sections of code into their own functions. So if we want declare a function that returns the square of the argument we have to tell the compiler what our return type is by specifing it before its name. And as mentioned earlier the parameters will need to go between the parenteses. The type of the arguments need to be specified because the compiler needs to check all types.
+
+#+BEGIN_SRC c :exports both
+#include <stdio.h>
+
+int square(int value) {
+  return value * value;
+}
+
+int main(int argc, char *argv[]) {
+  int magic = 42;
+
+  printf("The square of %i is %i\n", magic, square(magic));
+
+  return 0;
+}
+#+END_SRC
+
+#+RESULTS:
+: The square of 42 is 1764
+
+Then we come to making decisions in a program. Most programs need to do different things based on values that are either provide or calculated by the program. The C language provide the /if/ operator to check is a value is true. And when it is true it will perform some code or skip it.
+
+#+BEGIN_SRC c :exports both
+#include <stdio.h>
+
+int main(int argc, char argv[]) {
+  int magic = 42;
+
+  if(magic > 10) {
+    printf("The value of magic is bigger than 10!");
+  }
+
+  return 0;
+}
+#+END_SRC
+
+#+RESULTS:
+: The value of magic is bigger than 10!
+
+Here I end the first steps in the C language. There are some more concepts that need to be introduced to understand the C language. I will be using the C language to explain some very low level concepts like in Operating System programming. But also when I will discuss memory bugs that can be exploited.
+
+For more information on the C programming language you read the origional (short) book or read the [[https://en.wikibooks.org/wiki/C_Programming][wiki book]].
+
+Version 1.0 - 2020-02-16
