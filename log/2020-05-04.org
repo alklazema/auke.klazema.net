@@ -1,0 +1,6 @@
+#+TITLE: 2020-05-04 - auke.klazema.net
+#+AUTHOR: Auke L. Klazema
+
+* 2020-05-04
+
+Apparently it takes a holiday to get time to work on the website. I have been busy with work and life, but I have found some time for doing CTF's and I started reading the book "CEH v10 study guide" to give my study a bit more structure. Today I also worked in the article "what is a network".
