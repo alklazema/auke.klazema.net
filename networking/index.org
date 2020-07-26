@@ -3,4 +3,6 @@
 
 * Networking
 
+** Basics
+
 + [[file:whatisanetwork.org][What is a network?]]
