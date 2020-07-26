@@ -2,3 +2,5 @@
 #+AUTHOR: Auke L. Klazema
 
 * Networking
+
++ [[file:whatisanetwork.org][What is a network?]]
